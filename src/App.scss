@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+html,body{
+    font-family: 'Pattaya', sans-serif !important;
+    height: 100%;
+}
+
+.vid-content{
+    object-fit: cover;
+    width: 100%;
+    height: 100vh;
+    top: 0;
+    left: 0;
+}
+
+.fs-big-1{
+    font-size: 5em;
+}
+.fs-big-2{
+    font-size: 2.5em;
+}
+
+.filter-dark-1{
+    background-color: rgba(19, 19, 19, 0.4) ;
+}
+
+
+
+
+
